@@ -1,0 +1,5 @@
+Contract deployed to: 0x9E22a10A060D74B510DcA5e77678c153E224683C
+Minted domain banana.ninja
+Set record for banana.ninja
+Owner of domain banana: 0x3e49babb222b6348CeaE137d5c8029b5a923E489
+Contract balance: 0.1
